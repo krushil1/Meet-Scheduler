@@ -6,7 +6,7 @@ If the link is https://us02web.zoom.us/------------------------#success, please 
 ## Steps to run locally
 
 1. Make sure you have [Node.js](https://nodejs.org/en/download/) installed on your machine
-1. Clone this repository `git clone https://github.com/devlup-labs/meet-scheduler.git`
+1. Clone this repository `git clone https://github.com/krushil1/Meet-Scheduler.git`
 1. Run `npm install` to install the dependencies
 1. Run `npm start`
 1. Load your extension on Chrome:
