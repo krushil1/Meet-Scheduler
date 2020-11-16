@@ -1,3 +1,5 @@
+Modified from https://github.com/devlup-labs/meet-scheduler
+
 ## Steps to run locally
 
 1. Make sure you have [Node.js](https://nodejs.org/en/download/) installed on your machine
