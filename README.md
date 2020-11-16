@@ -1,6 +1,6 @@
 Modified from https://github.com/devlup-labs/meet-scheduler to open Zoom meetings as well.
 
-## How to use a Zoom meeting link
+## How to use a Zoom meeting link in the extension
 If the link is https://us02web.zoom.us/--------------------------------#success, please remove the #success in the end and then input the link into the extension. Also, if the link is https://us04web.zoom.us/--------------------------------------, please replace the 04 with 02.
 
 ## Steps to run locally
